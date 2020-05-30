@@ -3,7 +3,7 @@ import "./styles.scss";
 import { Dashboard, UserPage } from "./components";
 
 import { Route, Switch } from "react-router";
-
+// AL JAN ARMENY TXAYA UNECEL SHNORHAVORI
 export default function App() {
   return (
     <div className="App">
